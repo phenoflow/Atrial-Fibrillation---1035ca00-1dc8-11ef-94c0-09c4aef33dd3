@@ -1,0 +1,60 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/atrial-fibrillation---primary.py
+inputModule3:
+  class: File
+  path: python/paroxysmal-atrial-fibrillation---primary.py
+inputModule4:
+  class: File
+  path: python/atrial-fibrillation-invite---primary.py
+inputModule5:
+  class: File
+  path: python/atrial-fibrillation-control---primary.py
+inputModule6:
+  class: File
+  path: python/fibrillation---primary.py
+inputModule7:
+  class: File
+  path: python/persistent-atrial-fibrillation---primary.py
+inputModule8:
+  class: File
+  path: python/atrial-fibrillation-letter---primary.py
+inputModule9:
+  class: File
+  path: python/cerebral-atrial-fibrillation---primary.py
+inputModule10:
+  class: File
+  path: python/atrial-fibrillation-indicatorrelated---primary.py
+inputModule11:
+  class: File
+  path: python/nonrheumatic-atrial-fibrillation---primary.py
+inputModule12:
+  class: File
+  path: python/atrial-fibrillation-flutter---primary.py
+inputModule13:
+  class: File
+  path: python/atrial-fibrillation-verbal---primary.py
+inputModule14:
+  class: File
+  path: python/rapid-atrial-fibrillation---primary.py
+inputModule15:
+  class: File
+  path: python/atrial-fibrillation-procedure---primary.py
+inputModule16:
+  class: File
+  path: python/atrial-fibrillation-history---primary.py
+inputModule17:
+  class: File
+  path: python/atrial-fibrillation-evaluation---primary.py
+inputModule18:
+  class: File
+  path: python/atrial-fibrillation-telephone---primary.py
+inputModule19:
+  class: File
+  path: python/atrial-fibrillation-invitation---primary.py
+inputModule20:
+  class: File
+  path: python/output-cases.py
